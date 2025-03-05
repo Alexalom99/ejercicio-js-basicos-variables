@@ -15,6 +15,9 @@
   * En este punto, que valor tendrá 'variableD'. ¿Por qué? ¿Cómo podrías comprobarlo? Escribe el comando que te permita comprobar el valor de la variableD
   */
 
+ //  -7
+
+console.log(variableD);
 
 
 /** ---------------------------------------------- */
@@ -24,3 +27,7 @@ variableD = variableD * 2;
 /**
   * En este punto, que valor tendrá 'variableD'. ¿Por qué? ¿Cómo podrías comprobarlo? Piensa el valor que debería tener antes de mostrar su valor pantalla
   */
+
+//  -14
+
+console.log(variableD);
